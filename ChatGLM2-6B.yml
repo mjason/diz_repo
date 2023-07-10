@@ -1,0 +1,6 @@
+name: ChatGLM2-6B
+huggingface: THUDM/chatglm2-6b
+code_repo: https://github.com/THUDM/ChatGLM2-6B
+deps:
+  - https://raw.githubusercontent.com/THUDM/ChatGLM2-6B/main/requirements.txt
+  - rouge_chinese nltk jieba datasets
